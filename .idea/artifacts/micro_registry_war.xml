@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="micro-registry:war">
+    <output-path>$PROJECT_DIR$/micro-registry/target</output-path>
+    <root id="archive" name="micro-registry.war">
+      <element id="artifact" artifact-name="micro-registry:war exploded" />
+    </root>
+  </artifact>
+</component>

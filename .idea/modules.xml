@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MicroService-parent.iml" filepath="$PROJECT_DIR$/MicroService-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-registry/micro-registry.iml" filepath="$PROJECT_DIR$/micro-registry/micro-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/micro-service.iml" filepath="$PROJECT_DIR$/micro-service/micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microclient/microclient.iml" filepath="$PROJECT_DIR$/microclient/microclient.iml" />
+    </modules>
+  </component>
+</project>
